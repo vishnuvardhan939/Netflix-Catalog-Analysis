@@ -8,7 +8,7 @@ An end-to-end data analytics project that cleans the public Netflix titles datas
 
 ## 📸 Dashboard Preview
 
-![Netflix Power BI Dashboard](images/dashboard.png)
+![Netflix Power BI Dashboard](https://github.com/vishnuvardhan939/Netflix-Catalog-Analysis/blob/4ce9bac8e3e6b4997f8c0999dbb12d3ddf2b0226/dashboard_screenshot.png)
 
 ---
 
