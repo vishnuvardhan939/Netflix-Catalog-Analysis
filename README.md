@@ -2,7 +2,7 @@
 
 An end-to-end data analytics project that cleans the public Netflix titles dataset with **Python (Pandas)** and presents it as an interactive, Netflix-themed **Power BI** dashboard.
 
-> Internship project – Besant Technologies
+
 
 ---
 
